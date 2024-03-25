@@ -1,0 +1,701 @@
+Country,Product,Units Sold,Revenue per cookie,Cost per cookie,Date,Month Number,Month Name,Year
+Canada,Chocolate Chip,292, $5.00 , $2.00 ,01-02-2019,2, February ,2019
+Mexico, Chocolate Chip ,974, $5.00 , $2.00 ,01-02-2019,2, February ,2019
+Canada, Chocolate Chip ,2518, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Germany, Chocolate Chip ,1006, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Germany, Chocolate Chip ,367, $5.00 , $2.00 ,01-07-2019,7, July ,2019
+Mexico, Chocolate Chip ,883, $5.00 , $2.00 ,01-08-2019,8, August ,2019
+France, Chocolate Chip ,549, $5.00 , $2.00 ,01-09-2018,9, September ,2018
+Mexico, Chocolate Chip ,788, $5.00 , $2.00 ,01-09-2018,9, September ,2018
+Mexico, Chocolate Chip ,2472, $5.00 , $2.00 ,01-09-2019,9, September ,2019
+United States, Chocolate Chip ,1143, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Canada, Chocolate Chip ,1725, $5.00 , $2.00 ,01-11-2018,11, November ,2018
+United States, Chocolate Chip ,912, $5.00 , $2.00 ,01-11-2018,11, November ,2018
+Canada, Chocolate Chip ,2152, $5.00 , $2.00 ,01-12-2018,12, December ,2018
+Canada, Chocolate Chip ,1817, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Germany, Chocolate Chip ,1513, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+France, Chocolate Chip ,3945, $5.00 , $2.00 ,01-01-2019,1, January ,2019
+France, Chocolate Chip ,2296, $5.00 , $2.00 ,01-02-2019,2, February ,2019
+France, Chocolate Chip ,1030, $5.00 , $2.00 ,01-05-2019,5, May ,2019
+United States, Chocolate Chip ,1514, $5.00 , $2.00 ,01-02-2019,2, February ,2019
+United States, Chocolate Chip ,4492.5, $5.00 , $2.00 ,01-04-2019,4, April ,2019
+United States, Chocolate Chip ,727, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+France, Chocolate Chip ,787, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Mexico, Chocolate Chip ,1823, $5.00 , $2.00 ,01-07-2019,7, July ,2019
+Germany, Chocolate Chip ,747, $5.00 , $2.00 ,01-09-2019,9, September ,2019
+Germany, Chocolate Chip ,766, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+United States, Chocolate Chip ,2905, $5.00 , $2.00 ,01-11-2019,11, November ,2019
+France, Chocolate Chip ,2155, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Canada, Chocolate Chip ,2363, $5.00 , $2.00 ,01-02-2019,2, February ,2019
+France, Chocolate Chip ,918, $5.00 , $2.00 ,01-05-2019,5, May ,2019
+Germany, Chocolate Chip ,1728, $5.00 , $2.00 ,01-05-2019,5, May ,2019
+United States, Chocolate Chip ,1142, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Mexico, Chocolate Chip ,662, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Canada, Chocolate Chip ,1295, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Germany, Chocolate Chip ,809, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+Mexico, Chocolate Chip ,2145, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+France, Chocolate Chip ,1785, $5.00 , $2.00 ,01-11-2018,11, November ,2018
+Canada, Chocolate Chip ,1916, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Canada, Chocolate Chip ,2852, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Canada, Chocolate Chip ,2729, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+United States, Chocolate Chip ,1925, $5.00 , $2.00 ,01-12-2018,12, December ,2018
+United States, Chocolate Chip ,2013, $5.00 , $2.00 ,01-12-2018,12, December ,2018
+France, Chocolate Chip ,1055, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Mexico, Chocolate Chip ,1084, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+France, Chocolate Chip ,2434.5, $5.00 , $2.00 ,01-01-2019,1, January ,2019
+Canada, Chocolate Chip ,1774, $5.00 , $2.00 ,01-03-2019,3, March ,2019
+France, Chocolate Chip ,1901, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Germany, Chocolate Chip ,689, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Germany, Chocolate Chip ,1570, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+United States, Chocolate Chip ,1369.5, $5.00 , $2.00 ,01-07-2019,7, July ,2019
+Canada, Chocolate Chip ,2009, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Germany, Chocolate Chip ,1945, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+France, Chocolate Chip ,1287, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Germany, Chocolate Chip ,1706, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Mexico, Chocolate Chip ,1760, $5.00 , $2.00 ,01-09-2018,9, September ,2018
+Mexico, Chocolate Chip ,2031, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+France, Chocolate Chip ,2261, $5.00 , $2.00 ,01-12-2018,12, December ,2018
+Canada, Chocolate Chip ,4251, $5.00 , $2.00 ,01-01-2019,1, January ,2019
+Germany, Chocolate Chip ,795, $5.00 , $2.00 ,01-03-2019,3, March ,2019
+Germany, Chocolate Chip ,1414.5, $5.00 , $2.00 ,01-04-2019,4, April ,2019
+United States, Chocolate Chip ,2918, $5.00 , $2.00 ,01-05-2019,5, May ,2019
+United States, Chocolate Chip ,3450, $5.00 , $2.00 ,01-07-2019,7, July ,2019
+France, Chocolate Chip ,2988, $5.00 , $2.00 ,01-07-2019,7, July ,2019
+Canada, Chocolate Chip ,218, $5.00 , $2.00 ,01-09-2019,9, September ,2019
+Canada, Chocolate Chip ,2074, $5.00 , $2.00 ,01-09-2019,9, September ,2019
+United States, Chocolate Chip ,1056, $5.00 , $2.00 ,01-09-2019,9, September ,2019
+United States, Chocolate Chip ,671, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+Mexico, Chocolate Chip ,1514, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+United States, Chocolate Chip ,274, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Mexico, Chocolate Chip ,1138, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Germany, Chocolate Chip ,1372, $5.00 , $2.00 ,01-01-2019,1, January ,2019
+Canada, Chocolate Chip ,2349, $5.00 , $2.00 ,01-09-2018,9, September ,2018
+Mexico, Chocolate Chip ,2689, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Canada, Chocolate Chip ,2431, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+France, Chocolate Chip ,1303, $5.00 , $2.00 ,01-02-2019,2, February ,2019
+United States, Chocolate Chip ,2992, $5.00 , $2.00 ,01-03-2019,3, March ,2019
+France, Chocolate Chip ,2385, $5.00 , $2.00 ,01-03-2019,3, March ,2019
+Mexico, Chocolate Chip ,1607, $5.00 , $2.00 ,01-04-2019,4, April ,2019
+United States, Chocolate Chip ,2327, $5.00 , $2.00 ,01-05-2019,5, May ,2019
+United States, Chocolate Chip ,991, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+United States, Chocolate Chip ,602, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+France, Chocolate Chip ,2620, $5.00 , $2.00 ,01-09-2019,9, September ,2019
+Canada, Chocolate Chip ,1228, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+Canada, Chocolate Chip ,1389, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+United States, Chocolate Chip ,861, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+France, Chocolate Chip ,704, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+Canada, Chocolate Chip ,1802, $5.00 , $2.00 ,01-12-2018,12, December ,2018
+United States, Chocolate Chip ,2663, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+France, Chocolate Chip ,2136, $5.00 , $2.00 ,01-12-2018,12, December ,2018
+Germany, Chocolate Chip ,2116, $5.00 , $2.00 ,01-12-2018,12, December ,2018
+France, Chocolate Chip ,3801, $5.00 , $2.00 ,01-04-2019,4, April ,2019
+France, Chocolate Chip ,1496, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Canada, Chocolate Chip ,2299, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+United States, Chocolate Chip ,727, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+United States, Chocolate Chip ,2198, $5.00 , $2.00 ,01-08-2019,8, August ,2019
+Germany, Chocolate Chip ,1743, $5.00 , $2.00 ,01-08-2019,8, August ,2019
+United States, Chocolate Chip ,1153, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+France, Chocolate Chip ,1757, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+France, Chocolate Chip ,1031, $5.00 , $2.00 ,01-09-2018,9, September ,2018
+Canada, Chocolate Chip ,1702, $5.00 , $2.00 ,01-05-2019,5, May ,2019
+France, Chocolate Chip ,448, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Germany, Chocolate Chip ,3513, $5.00 , $2.00 ,01-07-2019,7, July ,2019
+France, Chocolate Chip ,2101, $5.00 , $2.00 ,01-08-2019,8, August ,2019
+United States, Chocolate Chip ,2931, $5.00 , $2.00 ,01-09-2018,9, September ,2018
+France, Chocolate Chip ,1535, $5.00 , $2.00 ,01-09-2019,9, September ,2019
+Germany, Chocolate Chip ,1123, $5.00 , $2.00 ,01-09-2018,9, September ,2018
+Canada, Chocolate Chip ,1404, $5.00 , $2.00 ,01-11-2018,11, November ,2018
+Mexico, Chocolate Chip ,2763, $5.00 , $2.00 ,01-11-2018,11, November ,2018
+Germany, Chocolate Chip ,2125, $5.00 , $2.00 ,01-12-2018,12, December ,2018
+Canada, Chocolate Chip ,257, $5.00 , $2.00 ,01-05-2019,5, May ,2019
+Mexico, Chocolate Chip ,1114, $5.00 , $2.00 ,01-03-2019,3, March ,2019
+Germany, Chocolate Chip ,1259, $5.00 , $2.00 ,01-04-2019,4, April ,2019
+Germany, Chocolate Chip ,1095, $5.00 , $2.00 ,01-05-2019,5, May ,2019
+Germany, Chocolate Chip ,1366, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Mexico, Chocolate Chip ,2460, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+United States, Chocolate Chip ,678, $5.00 , $2.00 ,01-08-2019,8, August ,2019
+Germany, Chocolate Chip ,1598, $5.00 , $2.00 ,01-08-2019,8, August ,2019
+Germany, Chocolate Chip ,2409, $5.00 , $2.00 ,01-09-2018,9, September ,2018
+Germany, Chocolate Chip ,1934, $5.00 , $2.00 ,01-09-2019,9, September ,2019
+Mexico, Chocolate Chip ,2993, $5.00 , $2.00 ,01-09-2019,9, September ,2019
+Germany, Chocolate Chip ,2146, $5.00 , $2.00 ,01-11-2018,11, November ,2018
+Mexico, Chocolate Chip ,1946, $5.00 , $2.00 ,01-12-2018,12, December ,2018
+Mexico, Chocolate Chip ,1362, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Mexico, Chocolate Chip ,2565, $5.00 , $2.00 ,01-01-2019,1, January ,2019
+Mexico, Chocolate Chip ,2417, $5.00 , $2.00 ,01-01-2019,1, January ,2019
+United States, Chocolate Chip ,3675, $5.00 , $2.00 ,01-04-2019,4, April ,2019
+Canada, Chocolate Chip ,1094, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+France, Chocolate Chip ,1227, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Mexico, Chocolate Chip ,367, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+France, Chocolate Chip ,1324, $5.00 , $2.00 ,01-11-2019,11, November ,2019
+Germany, Chocolate Chip ,1775, $5.00 , $2.00 ,01-11-2018,11, November ,2018
+United States, Chocolate Chip ,2797, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+United States, Chocolate Chip ,973, $5.00 , $2.00 ,01-03-2019,3, March ,2019
+Mexico, Chocolate Chip ,1038, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Germany, Chocolate Chip ,360, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+United States, Chocolate Chip ,386, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+France, Chocolate Chip ,1954, $5.00 , $2.00 ,01-03-2019,3, March ,2019
+Mexico, Chocolate Chip ,591, $5.00 , $2.00 ,01-05-2019,5, May ,2019
+France, Chocolate Chip ,2167, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+Germany, Chocolate Chip ,241, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+France, Chocolate Chip ,2532, $5.00 , $2.00 ,01-04-2019,4, April ,2019
+France, Chocolate Chip ,1198, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+Canada, Chocolate Chip ,873, $5.00 , $2.00 ,01-01-2019,1, January ,2019
+Mexico, Chocolate Chip ,1122, $5.00 , $2.00 ,01-03-2019,3, March ,2019
+Canada, Chocolate Chip ,2104.5, $5.00 , $2.00 ,01-07-2019,7, July ,2019
+Canada, Chocolate Chip ,4026, $5.00 , $2.00 ,01-07-2019,7, July ,2019
+France, Chocolate Chip ,2425.5, $5.00 , $2.00 ,01-07-2019,7, July ,2019
+Canada, Chocolate Chip ,2394, $5.00 , $2.00 ,01-08-2019,8, August ,2019
+Mexico, Chocolate Chip ,1984, $5.00 , $2.00 ,01-08-2019,8, August ,2019
+France, Chocolate Chip ,2441, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Germany, Chocolate Chip ,2992, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+Canada, Chocolate Chip ,1366, $5.00 , $2.00 ,01-11-2019,11, November ,2019
+United States, Chocolate Chip ,380, $5.00 , $2.00 ,01-09-2018,9, September ,2018
+United States, Chocolate Chip ,3495, $5.00 , $2.00 ,01-01-2019,1, January ,2019
+Mexico, Chocolate Chip ,886, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Mexico, Chocolate Chip ,2156, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Mexico, Chocolate Chip ,905, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Mexico, Chocolate Chip ,1715, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+France, Chocolate Chip ,1594, $5.00 , $2.00 ,01-11-2019,11, November ,2019
+Germany, Chocolate Chip ,1359, $5.00 , $2.00 ,01-11-2019,11, November ,2019
+Mexico, Chocolate Chip ,2150, $5.00 , $2.00 ,01-11-2019,11, November ,2019
+Mexico, Chocolate Chip ,1197, $5.00 , $2.00 ,01-11-2019,11, November ,2019
+Mexico, Chocolate Chip ,380, $5.00 , $2.00 ,01-12-2018,12, December ,2018
+Mexico, Chocolate Chip ,1233, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Germany, Chocolate Chip ,1531, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+United States, Chocolate Chip ,1438.5, $5.00 , $2.00 ,01-01-2019,1, January ,2019
+Germany, Chocolate Chip ,807, $5.00 , $2.00 ,01-01-2019,1, January ,2019
+United States, Chocolate Chip ,2641, $5.00 , $2.00 ,01-02-2019,2, February ,2019
+Germany, Chocolate Chip ,2708, $5.00 , $2.00 ,01-02-2019,2, February ,2019
+Canada, Chocolate Chip ,2632, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Canada, Chocolate Chip ,1583, $5.00 , $2.00 ,01-06-2019,6, June ,2019
+Mexico, Chocolate Chip ,571, $5.00 , $2.00 ,01-07-2019,7, July ,2019
+France, Chocolate Chip ,2696, $5.00 , $2.00 ,01-08-2019,8, August ,2019
+Canada, Chocolate Chip ,1565, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Canada, Chocolate Chip ,1249, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Germany, Chocolate Chip ,357, $5.00 , $2.00 ,01-11-2019,11, November ,2019
+Germany, Chocolate Chip ,1013, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Germany, Chocolate Chip ,278, $5.00 , $2.00 ,01-02-2019,2, February ,2019
+Canada, Chocolate Chip ,2428, $5.00 , $2.00 ,01-03-2019,3, March ,2019
+United States, Chocolate Chip ,1767, $5.00 , $2.00 ,01-09-2019,9, September ,2019
+France, Chocolate Chip ,1393, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Mexico, Chocolate Chip ,260, $5.00 , $2.00 ,01-02-2019,2, February ,2019
+Canada, Chocolate Chip ,2470, $5.00 , $2.00 ,01-09-2018,9, September ,2018
+Canada, Chocolate Chip ,1743, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+United States, Chocolate Chip ,2914, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+France, Chocolate Chip ,1731, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Canada, Chocolate Chip ,700, $5.00 , $2.00 ,01-11-2019,11, November ,2019
+Canada, Chocolate Chip ,2222, $5.00 , $2.00 ,01-11-2018,11, November ,2018
+United States, Chocolate Chip ,1177, $5.00 , $2.00 ,01-11-2019,11, November ,2019
+France, Chocolate Chip ,1922, $5.00 , $2.00 ,01-11-2018,11, November ,2018
+Germany, Chocolate Chip ,1158, $5.00 , $2.00 ,01-03-2019,3, March ,2019
+Canada, Chocolate Chip ,1614, $5.00 , $2.00 ,01-04-2019,4, April ,2019
+Mexico, Chocolate Chip ,2535, $5.00 , $2.00 ,01-04-2019,4, April ,2019
+Mexico, Chocolate Chip ,2851, $5.00 , $2.00 ,01-05-2019,5, May ,2019
+Canada, Chocolate Chip ,2559, $5.00 , $2.00 ,01-08-2019,8, August ,2019
+United States, Chocolate Chip ,267, $5.00 , $2.00 ,01-10-2018,10, October ,2018
+Germany, Chocolate Chip ,1085, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+Germany, Chocolate Chip ,1175, $5.00 , $2.00 ,01-10-2019,10, October ,2019
+United States, Chocolate Chip ,2007, $5.00 , $2.00 ,01-11-2018,11, November ,2018
+Mexico, Chocolate Chip ,2151, $5.00 , $2.00 ,01-11-2018,11, November ,2018
+United States, Chocolate Chip ,914, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+France, Chocolate Chip ,293, $5.00 , $2.00 ,01-12-2019,12, December ,2019
+Canada, Chocolate Chip ,723, $5.00 , $2.00 ,01-04-2019,4, April ,2019
+Germany, Fortune Cookie ,921, $1.00 , $0.20 ,01-03-2019,3, March ,2019
+Canada, Fortune Cookie ,2518, $1.00 , $0.20 ,01-06-2019,6, June ,2019
+France, Fortune Cookie ,1899, $1.00 , $0.20 ,01-06-2019,6, June ,2019
+Germany, Fortune Cookie ,1545, $1.00 , $0.20 ,01-06-2019,6, June ,2019
+Mexico, Fortune Cookie ,2470, $1.00 , $0.20 ,01-06-2019,6, June ,2019
+Canada, Fortune Cookie ,2665.5, $1.00 , $0.20 ,01-07-2019,7, July ,2019
+Mexico, Fortune Cookie ,958, $1.00 , $0.20 ,01-08-2019,8, August ,2019
+Germany, Fortune Cookie ,2146, $1.00 , $0.20 ,01-09-2019,9, September ,2019
+Canada, Fortune Cookie ,345, $1.00 , $0.20 ,01-10-2018,10, October ,2018
+United States, Fortune Cookie ,615, $1.00 , $0.20 ,01-12-2019,12, December ,2019
+Mexico, Fortune Cookie ,2214, $1.00 , $0.20 ,01-03-2019,3, March ,2019
+United States, Fortune Cookie ,2301, $1.00 , $0.20 ,01-04-2019,4, April ,2019
+France, Fortune Cookie ,1375.5, $1.00 , $0.20 ,01-07-2019,7, July ,2019
+Canada, Fortune Cookie ,1830, $1.00 , $0.20 ,01-08-2019,8, August ,2019
+United States, Fortune Cookie ,2498, $1.00 , $0.20 ,01-09-2018,9, September ,2018
+United States, Fortune Cookie ,663, $1.00 , $0.20 ,01-10-2018,10, October ,2018
+United States, Fortune Cookie ,1142, $1.00 , $0.20 ,01-06-2019,6, June ,2019
+United States, Fortune Cookie ,1566, $1.00 , $0.20 ,01-10-2019,10, October ,2019
+Mexico, Fortune Cookie ,690, $1.00 , $0.20 ,01-11-2019,11, November ,2019
+Mexico, Fortune Cookie ,1660, $1.00 , $0.20 ,01-11-2018,11, November ,2018
+Germany, Fortune Cookie ,1958, $1.00 , $0.20 ,01-02-2019,2, February ,2019
+France, Fortune Cookie ,1901, $1.00 , $0.20 ,01-06-2019,6, June ,2019
+France, Fortune Cookie ,544, $1.00 , $0.20 ,01-09-2019,9, September ,2019
+Germany, Fortune Cookie ,1797, $1.00 , $0.20 ,01-09-2018,9, September ,2018
+France, Fortune Cookie ,1287, $1.00 , $0.20 ,01-12-2019,12, December ,2019
+Germany, Fortune Cookie ,1706, $1.00 , $0.20 ,01-12-2019,12, December ,2019
+Mexico, Fortune Cookie ,2031, $1.00 , $0.20 ,01-10-2019,10, October ,2019
+Canada, Fortune Cookie ,1967, $1.00 , $0.20 ,01-03-2019,3, March ,2019
+Germany, Fortune Cookie ,1859, $1.00 , $0.20 ,01-08-2019,8, August ,2019
+Canada, Fortune Cookie ,2851, $1.00 , $0.20 ,01-10-2018,10, October ,2018
+Germany, Fortune Cookie ,2021, $1.00 , $0.20 ,01-10-2019,10, October ,2019
+Mexico, Fortune Cookie ,1138, $1.00 , $0.20 ,01-12-2019,12, December ,2019
+Germany, Fortune Cookie ,1159, $1.00 , $0.20 ,01-10-2018,10, October ,2018
+France, Fortune Cookie ,1384.5, $1.00 , $0.20 ,01-01-2019,1, January ,2019
+United States, Fortune Cookie ,3627, $1.00 , $0.20 ,01-07-2019,7, July ,2019
+Mexico, Fortune Cookie ,720, $1.00 , $0.20 ,01-09-2018,9, September ,2018
+Germany, Fortune Cookie ,2342, $1.00 , $0.20 ,01-11-2019,11, November ,2019
+Mexico, Fortune Cookie ,1100, $1.00 , $0.20 ,01-12-2018,12, December ,2018
+Mexico, Fortune Cookie ,980, $1.00 , $0.20 ,01-04-2019,4, April ,2019
+Germany, Fortune Cookie ,1460, $1.00 , $0.20 ,01-05-2019,5, May ,2019
+France, Fortune Cookie ,1403, $1.00 , $0.20 ,01-10-2018,10, October ,2018
+United States, Fortune Cookie ,2723, $1.00 , $0.20 ,01-11-2019,11, November ,2019
+France, Fortune Cookie ,1757, $1.00 , $0.20 ,01-10-2018,10, October ,2018
+Mexico, Fortune Cookie ,2340, $1.00 , $0.20 ,01-01-2019,1, January ,2019
+France, Fortune Cookie ,2342, $1.00 , $0.20 ,01-11-2019,11, November ,2019
+France, Fortune Cookie ,1976, $1.00 , $0.20 ,01-10-2019,10, October ,2019
+France, Fortune Cookie ,2181, $1.00 , $0.20 ,01-10-2019,10, October ,2019
+Germany, Fortune Cookie ,2500, $1.00 , $0.20 ,01-11-2018,11, November ,2018
+Canada, Fortune Cookie ,488, $1.00 , $0.20 ,01-02-2019,2, February ,2019
+United States, Fortune Cookie ,1282, $1.00 , $0.20 ,01-06-2019,6, June ,2019
+France, Fortune Cookie ,2501, $1.00 , $0.20 ,01-03-2019,3, March ,2019
+Canada, Fortune Cookie ,708, $1.00 , $0.20 ,01-06-2019,6, June ,2019
+Germany, Fortune Cookie ,645, $1.00 , $0.20 ,01-07-2019,7, July ,2019
+France, Fortune Cookie ,1562, $1.00 , $0.20 ,01-08-2019,8, August ,2019
+Canada, Fortune Cookie ,1283, $1.00 , $0.20 ,01-09-2018,9, September ,2018
+Germany, Fortune Cookie ,711, $1.00 , $0.20 ,01-12-2019,12, December ,2019
+Canada, Fortune Cookie ,3802.5, $1.00 , $0.20 ,01-04-2019,4, April ,2019
+France, Fortune Cookie ,1666, $1.00 , $0.20 ,01-05-2019,5, May ,2019
+France, Fortune Cookie ,322, $1.00 , $0.20 ,01-09-2018,9, September ,2018
+Canada, Fortune Cookie ,2321, $1.00 , $0.20 ,01-11-2019,11, November ,2019
+France, Fortune Cookie ,1857, $1.00 , $0.20 ,01-11-2018,11, November ,2018
+Canada, Fortune Cookie ,1611, $1.00 , $0.20 ,01-12-2018,12, December ,2018
+United States, Fortune Cookie ,2797, $1.00 , $0.20 ,01-12-2019,12, December ,2019
+Germany, Fortune Cookie ,334, $1.00 , $0.20 ,01-12-2018,12, December ,2018
+United States, Fortune Cookie ,2328, $1.00 , $0.20 ,01-09-2019,9, September ,2019
+United States, Fortune Cookie ,2313, $1.00 , $0.20 ,01-05-2019,5, May ,2019
+United States, Fortune Cookie ,1804, $1.00 , $0.20 ,01-11-2018,11, November ,2018
+France, Fortune Cookie ,2072, $1.00 , $0.20 ,01-12-2019,12, December ,2019
+Germany, Fortune Cookie ,766, $1.00 , $0.20 ,01-01-2019,1, January ,2019
+Germany, Fortune Cookie ,2992, $1.00 , $0.20 ,01-10-2018,10, October ,2018
+Mexico, Fortune Cookie ,2157, $1.00 , $0.20 ,01-12-2019,12, December ,2019
+United States, Fortune Cookie ,677, $1.00 , $0.20 ,01-03-2019,3, March ,2019
+France, Fortune Cookie ,1773, $1.00 , $0.20 ,01-04-2019,4, April ,2019
+Mexico, Fortune Cookie ,2420, $1.00 , $0.20 ,01-09-2019,9, September ,2019
+Canada, Fortune Cookie ,2734, $1.00 , $0.20 ,01-10-2019,10, October ,2019
+Mexico, Fortune Cookie ,1715, $1.00 , $0.20 ,01-10-2018,10, October ,2018
+France, Fortune Cookie ,1186, $1.00 , $0.20 ,01-12-2018,12, December ,2018
+Mexico, Fortune Cookie ,2661, $1.00 , $0.20 ,01-05-2019,5, May ,2019
+United States, Fortune Cookie ,982.5, $1.00 , $0.20 ,01-01-2019,1, January ,2019
+United States, Fortune Cookie ,1298, $1.00 , $0.20 ,01-02-2019,2, February ,2019
+Mexico, Fortune Cookie ,604, $1.00 , $0.20 ,01-06-2019,6, June ,2019
+Mexico, Fortune Cookie ,2255, $1.00 , $0.20 ,01-07-2019,7, July ,2019
+Canada, Fortune Cookie ,1249, $1.00 , $0.20 ,01-10-2019,10, October ,2019
+France, Fortune Cookie ,293, $1.00 , $0.20 ,01-02-2019,2, February ,2019
+United States, Fortune Cookie ,2996, $1.00 , $0.20 ,01-10-2018,10, October ,2018
+Canada, Fortune Cookie ,2227.5, $1.00 , $0.20 ,01-01-2019,1, January ,2019
+Germany, Fortune Cookie ,1199, $1.00 , $0.20 ,01-04-2019,4, April ,2019
+Canada, Fortune Cookie ,200, $1.00 , $0.20 ,01-05-2019,5, May ,2019
+Canada, Fortune Cookie ,388, $1.00 , $0.20 ,01-09-2019,9, September ,2019
+Mexico, Fortune Cookie ,1727, $1.00 , $0.20 ,01-10-2018,10, October ,2018
+Canada, Fortune Cookie ,2300, $1.00 , $0.20 ,01-12-2019,12, December ,2019
+Mexico, Fortune Cookie ,546, $1.00 , $0.20 ,01-10-2019,10, October ,2019
+Mexico, Fortune Cookie ,1368, $1.00 , $0.20 ,01-02-2019,2, February ,2019
+France, Oatmeal Raisin ,2750, $5.00 , $2.20 ,01-02-2019,2, February ,2019
+United States, Oatmeal Raisin ,1953, $5.00 , $2.20 ,01-04-2019,4, April ,2019
+Germany, Oatmeal Raisin ,4219.5, $5.00 , $2.20 ,01-04-2019,4, April ,2019
+France, Oatmeal Raisin ,1899, $5.00 , $2.20 ,01-06-2019,6, June ,2019
+Germany, Oatmeal Raisin ,1686, $5.00 , $2.20 ,01-07-2019,7, July ,2019
+United States, Oatmeal Raisin ,2141, $5.00 , $2.20 ,01-08-2019,8, August ,2019
+United States, Oatmeal Raisin ,1143, $5.00 , $2.20 ,01-10-2019,10, October ,2019
+United States, Oatmeal Raisin ,615, $5.00 , $2.20 ,01-12-2019,12, December ,2019
+United States, Oatmeal Raisin ,1989, $5.00 , $2.20 ,01-09-2018,9, September ,2018
+France, Oatmeal Raisin ,321, $5.00 , $2.20 ,01-11-2018,11, November ,2018
+Germany, Oatmeal Raisin ,259, $5.00 , $2.20 ,01-03-2019,3, March ,2019
+Mexico, Oatmeal Raisin ,1101, $5.00 , $2.20 ,01-03-2019,3, March ,2019
+Germany, Oatmeal Raisin ,2276, $5.00 , $2.20 ,01-05-2019,5, May ,2019
+Germany, Oatmeal Raisin ,2966, $5.00 , $2.20 ,01-10-2018,10, October ,2018
+United States, Oatmeal Raisin ,1236, $5.00 , $2.20 ,01-11-2019,11, November ,2019
+France, Oatmeal Raisin ,941, $5.00 , $2.20 ,01-11-2019,11, November ,2019
+Canada, Oatmeal Raisin ,1916, $5.00 , $2.20 ,01-12-2019,12, December ,2019
+Mexico, Oatmeal Raisin ,1865, $5.00 , $2.20 ,01-02-2019,2, February ,2019
+Mexico, Oatmeal Raisin ,1074, $5.00 , $2.20 ,01-04-2019,4, April ,2019
+Germany, Oatmeal Raisin ,1907, $5.00 , $2.20 ,01-09-2019,9, September ,2019
+United States, Oatmeal Raisin ,671, $5.00 , $2.20 ,01-10-2018,10, October ,2018
+Canada, Oatmeal Raisin ,1778, $5.00 , $2.20 ,01-12-2018,12, December ,2018
+Mexico, Oatmeal Raisin ,1683, $5.00 , $2.20 ,01-07-2019,7, July ,2019
+Mexico, Oatmeal Raisin ,1123, $5.00 , $2.20 ,01-08-2019,8, August ,2019
+Germany, Oatmeal Raisin ,1159, $5.00 , $2.20 ,01-10-2018,10, October ,2018
+Germany, Oatmeal Raisin ,1350, $5.00 , $2.20 ,01-02-2019,2, February ,2019
+Canada, Oatmeal Raisin ,552, $5.00 , $2.20 ,01-08-2019,8, August ,2019
+Canada, Oatmeal Raisin ,1228, $5.00 , $2.20 ,01-10-2018,10, October ,2018
+Germany, Oatmeal Raisin ,1250, $5.00 , $2.20 ,01-12-2019,12, December ,2019
+France, Oatmeal Raisin ,1987.5, $5.00 , $2.20 ,01-01-2019,1, January ,2019
+Mexico, Oatmeal Raisin ,1679, $5.00 , $2.20 ,01-09-2019,9, September ,2019
+United States, Oatmeal Raisin ,727, $5.00 , $2.20 ,01-10-2018,10, October ,2018
+France, Oatmeal Raisin ,1403, $5.00 , $2.20 ,01-10-2018,10, October ,2018
+France, Oatmeal Raisin ,2076, $5.00 , $2.20 ,01-10-2018,10, October ,2018
+Canada, Oatmeal Raisin ,1135, $5.00 , $2.20 ,01-06-2019,6, June ,2019
+Canada, Oatmeal Raisin ,1645, $5.00 , $2.20 ,01-05-2019,5, May ,2019
+France, Oatmeal Raisin ,2876, $5.00 , $2.20 ,01-09-2019,9, September ,2019
+Germany, Oatmeal Raisin ,994, $5.00 , $2.20 ,01-09-2018,9, September ,2018
+Canada, Oatmeal Raisin ,1118, $5.00 , $2.20 ,01-11-2019,11, November ,2019
+United States, Oatmeal Raisin ,1372, $5.00 , $2.20 ,01-12-2019,12, December ,2019
+United States, Oatmeal Raisin ,1282, $5.00 , $2.20 ,01-06-2019,6, June ,2019
+Canada, Oatmeal Raisin ,708, $5.00 , $2.20 ,01-06-2019,6, June ,2019
+United States, Oatmeal Raisin ,2907, $5.00 , $2.20 ,01-06-2019,6, June ,2019
+Germany, Oatmeal Raisin ,1366, $5.00 , $2.20 ,01-06-2019,6, June ,2019
+Mexico, Oatmeal Raisin ,2460, $5.00 , $2.20 ,01-06-2019,6, June ,2019
+Germany, Oatmeal Raisin ,1520, $5.00 , $2.20 ,01-11-2019,11, November ,2019
+Germany, Oatmeal Raisin ,711, $5.00 , $2.20 ,01-12-2019,12, December ,2019
+Mexico, Oatmeal Raisin ,1375, $5.00 , $2.20 ,01-12-2018,12, December ,2018
+Mexico, Oatmeal Raisin ,635, $5.00 , $2.20 ,01-12-2019,12, December ,2019
+United States, Oatmeal Raisin ,2071, $5.00 , $2.20 ,01-09-2019,9, September ,2019
+Canada, Oatmeal Raisin ,1269, $5.00 , $2.20 ,01-10-2019,10, October ,2019
+Germany, Oatmeal Raisin ,970, $5.00 , $2.20 ,01-11-2018,11, November ,2018
+Mexico, Oatmeal Raisin ,1694, $5.00 , $2.20 ,01-11-2019,11, November ,2019
+Mexico, Oatmeal Raisin ,1038, $5.00 , $2.20 ,01-06-2019,6, June ,2019
+Canada, Oatmeal Raisin ,1630.5, $5.00 , $2.20 ,01-07-2019,7, July ,2019
+France, Oatmeal Raisin ,306, $5.00 , $2.20 ,01-12-2018,12, December ,2018
+United States, Oatmeal Raisin ,579, $5.00 , $2.20 ,01-01-2019,1, January ,2019
+Canada, Oatmeal Raisin ,2240, $5.00 , $2.20 ,01-02-2019,2, February ,2019
+United States, Oatmeal Raisin ,2993, $5.00 , $2.20 ,01-03-2019,3, March ,2019
+Canada, Oatmeal Raisin ,3520.5, $5.00 , $2.20 ,01-04-2019,4, April ,2019
+Mexico, Oatmeal Raisin ,2039, $5.00 , $2.20 ,01-05-2019,5, May ,2019
+Germany, Oatmeal Raisin ,2574, $5.00 , $2.20 ,01-08-2019,8, August ,2019
+Canada, Oatmeal Raisin ,707, $5.00 , $2.20 ,01-09-2019,9, September ,2019
+France, Oatmeal Raisin ,2072, $5.00 , $2.20 ,01-12-2019,12, December ,2019
+France, Oatmeal Raisin ,853, $5.00 , $2.20 ,01-12-2019,12, December ,2019
+United States, Oatmeal Raisin ,3199.5, $5.00 , $2.20 ,01-07-2019,7, July ,2019
+Germany, Oatmeal Raisin ,472, $5.00 , $2.20 ,01-10-2019,10, October ,2019
+Germany, Oatmeal Raisin ,3165, $5.00 , $2.20 ,01-01-2019,1, January ,2019
+Mexico, Oatmeal Raisin ,2629, $5.00 , $2.20 ,01-01-2019,1, January ,2019
+France, Oatmeal Raisin ,1433, $5.00 , $2.20 ,01-05-2019,5, May ,2019
+Mexico, Oatmeal Raisin ,947, $5.00 , $2.20 ,01-09-2018,9, September ,2018
+Mexico, Oatmeal Raisin ,344, $5.00 , $2.20 ,01-10-2018,10, October ,2018
+Mexico, Oatmeal Raisin ,2157, $5.00 , $2.20 ,01-12-2019,12, December ,2019
+United States, Oatmeal Raisin ,270, $5.00 , $2.20 ,01-02-2019,2, February ,2019
+France, Oatmeal Raisin ,3421.5, $5.00 , $2.20 ,01-07-2019,7, July ,2019
+Canada, Oatmeal Raisin ,2734, $5.00 , $2.20 ,01-10-2019,10, October ,2019
+United States, Oatmeal Raisin ,2548, $5.00 , $2.20 ,01-11-2018,11, November ,2018
+Canada, Oatmeal Raisin ,2761, $5.00 , $2.20 ,01-09-2018,9, September ,2018
+Canada, Oatmeal Raisin ,1659, $5.00 , $2.20 ,01-01-2019,1, January ,2019
+France, Oatmeal Raisin ,1190, $5.00 , $2.20 ,01-06-2019,6, June ,2019
+Mexico, Oatmeal Raisin ,410, $5.00 , $2.20 ,01-10-2019,10, October ,2019
+Germany, Oatmeal Raisin ,1770, $5.00 , $2.20 ,01-12-2018,12, December ,2018
+France, Oatmeal Raisin ,1393, $5.00 , $2.20 ,01-10-2019,10, October ,2019
+United States, Oatmeal Raisin ,2015, $5.00 , $2.20 ,01-12-2018,12, December ,2018
+Canada, Oatmeal Raisin ,888, $5.00 , $2.20 ,01-03-2019,3, March ,2019
+United States, Oatmeal Raisin ,2844, $5.00 , $2.20 ,01-05-2019,5, May ,2019
+France, Oatmeal Raisin ,2475, $5.00 , $2.20 ,01-08-2019,8, August ,2019
+Canada, Oatmeal Raisin ,1743, $5.00 , $2.20 ,01-10-2018,10, October ,2018
+United States, Oatmeal Raisin ,2914, $5.00 , $2.20 ,01-10-2019,10, October ,2019
+France, Oatmeal Raisin ,1731, $5.00 , $2.20 ,01-10-2019,10, October ,2019
+Mexico, Oatmeal Raisin ,1727, $5.00 , $2.20 ,01-10-2018,10, October ,2018
+Mexico, Oatmeal Raisin ,1870, $5.00 , $2.20 ,01-11-2018,11, November ,2018
+France, Oatmeal Raisin ,2475, $5.00 , $2.20 ,01-03-2019,3, March ,2019
+Mexico, Oatmeal Raisin ,546, $5.00 , $2.20 ,01-10-2019,10, October ,2019
+Canada, Snickerdoodle ,1618.5, $4.00 , $1.50 ,01-01-2019,1, January ,2019
+Germany, Snickerdoodle ,1321, $4.00 , $1.50 ,01-01-2019,1, January ,2019
+France, Snickerdoodle ,2178, $4.00 , $1.50 ,01-06-2019,6, June ,2019
+Germany, Snickerdoodle ,888, $4.00 , $1.50 ,01-06-2019,6, June ,2019
+Mexico, Snickerdoodle ,2470, $4.00 , $1.50 ,01-06-2019,6, June ,2019
+Germany, Snickerdoodle ,1513, $4.00 , $1.50 ,01-12-2019,12, December ,2019
+United States, Snickerdoodle ,1858, $4.00 , $1.50 ,01-02-2019,2, February ,2019
+Mexico, Snickerdoodle ,1210, $4.00 , $1.50 ,01-03-2019,3, March ,2019
+United States, Snickerdoodle ,2529, $4.00 , $1.50 ,01-07-2019,7, July ,2019
+Canada, Snickerdoodle ,1445, $4.00 , $1.50 ,01-09-2019,9, September ,2019
+United States, Snickerdoodle ,330, $4.00 , $1.50 ,01-09-2018,9, September ,2018
+France, Snickerdoodle ,2671, $4.00 , $1.50 ,01-09-2019,9, September ,2019
+Germany, Snickerdoodle ,766, $4.00 , $1.50 ,01-10-2018,10, October ,2018
+Mexico, Snickerdoodle ,494, $4.00 , $1.50 ,01-10-2018,10, October ,2018
+Mexico, Snickerdoodle ,1397, $4.00 , $1.50 ,01-10-2019,10, October ,2019
+France, Snickerdoodle ,2155, $4.00 , $1.50 ,01-12-2019,12, December ,2019
+Canada, Snickerdoodle ,742.5, $4.00 , $1.50 ,01-04-2019,4, April ,2019
+Canada, Snickerdoodle ,1295, $4.00 , $1.50 ,01-10-2019,10, October ,2019
+Germany, Snickerdoodle ,214, $4.00 , $1.50 ,01-10-2018,10, October ,2018
+France, Snickerdoodle ,2145, $4.00 , $1.50 ,01-11-2018,11, November ,2018
+Canada, Snickerdoodle ,2852, $4.00 , $1.50 ,01-12-2019,12, December ,2019
+France, Snickerdoodle ,4243.5, $4.00 , $1.50 ,01-04-2019,4, April ,2019
+Germany, Snickerdoodle ,2580, $4.00 , $1.50 ,01-04-2019,4, April ,2019
+Germany, Snickerdoodle ,689, $4.00 , $1.50 ,01-06-2019,6, June ,2019
+United States, Snickerdoodle ,1947, $4.00 , $1.50 ,01-09-2019,9, September ,2019
+Canada, Snickerdoodle ,908, $4.00 , $1.50 ,01-12-2018,12, December ,2018
+Canada, Snickerdoodle ,831, $4.00 , $1.50 ,01-05-2019,5, May ,2019
+Canada, Snickerdoodle ,2851, $4.00 , $1.50 ,01-10-2018,10, October ,2018
+Germany, Snickerdoodle ,2021, $4.00 , $1.50 ,01-10-2019,10, October ,2019
+United States, Snickerdoodle ,274, $4.00 , $1.50 ,01-12-2019,12, December ,2019
+France, Snickerdoodle ,1865, $4.00 , $1.50 ,01-02-2019,2, February ,2019
+Germany, Snickerdoodle ,1116, $4.00 , $1.50 ,01-02-2019,2, February ,2019
+France, Snickerdoodle ,1563, $4.00 , $1.50 ,01-05-2019,5, May ,2019
+United States, Snickerdoodle ,991, $4.00 , $1.50 ,01-06-2019,6, June ,2019
+Germany, Snickerdoodle ,1016, $4.00 , $1.50 ,01-11-2018,11, November ,2018
+Mexico, Snickerdoodle ,2791, $4.00 , $1.50 ,01-11-2019,11, November ,2019
+United States, Snickerdoodle ,570, $4.00 , $1.50 ,01-12-2019,12, December ,2019
+France, Snickerdoodle ,2487, $4.00 , $1.50 ,01-12-2019,12, December ,2019
+United States, Snickerdoodle ,1117.5, $4.00 , $1.50 ,01-01-2019,1, January ,2019
+Canada, Snickerdoodle ,2844, $4.00 , $1.50 ,01-06-2019,6, June ,2019
+Mexico, Snickerdoodle ,562, $4.00 , $1.50 ,01-09-2019,9, September ,2019
+Canada, Snickerdoodle ,2299, $4.00 , $1.50 ,01-10-2018,10, October ,2018
+United States, Snickerdoodle ,2030, $4.00 , $1.50 ,01-11-2019,11, November ,2019
+United States, Snickerdoodle ,263, $4.00 , $1.50 ,01-11-2018,11, November ,2018
+Germany, Snickerdoodle ,887, $4.00 , $1.50 ,01-12-2018,12, December ,2018
+Mexico, Snickerdoodle ,727, $4.00 , $1.50 ,01-02-2019,2, February ,2019
+Canada, Snickerdoodle ,1884, $4.00 , $1.50 ,01-08-2019,8, August ,2019
+Mexico, Snickerdoodle ,1834, $4.00 , $1.50 ,01-09-2018,9, September ,2018
+United States, Snickerdoodle ,1761, $4.00 , $1.50 ,01-03-2019,3, March ,2019
+France, Snickerdoodle ,448, $4.00 , $1.50 ,01-06-2019,6, June ,2019
+France, Snickerdoodle ,2181, $4.00 , $1.50 ,01-10-2019,10, October ,2019
+Mexico, Snickerdoodle ,1540, $4.00 , $1.50 ,01-08-2019,8, August ,2019
+France, Snickerdoodle ,490, $4.00 , $1.50 ,01-11-2019,11, November ,2019
+Mexico, Snickerdoodle ,1362, $4.00 , $1.50 ,01-12-2019,12, December ,2019
+Canada, Snickerdoodle ,1094, $4.00 , $1.50 ,01-06-2019,6, June ,2019
+Mexico, Snickerdoodle ,367, $4.00 , $1.50 ,01-10-2018,10, October ,2018
+Germany, Snickerdoodle ,663, $4.00 , $1.50 ,01-05-2019,5, May ,2019
+Canada, Snickerdoodle ,819, $4.00 , $1.50 ,01-07-2019,7, July ,2019
+Germany, Snickerdoodle ,1580, $4.00 , $1.50 ,01-09-2019,9, September ,2019
+Mexico, Snickerdoodle ,521, $4.00 , $1.50 ,01-12-2019,12, December ,2019
+United States, Snickerdoodle ,386, $4.00 , $1.50 ,01-10-2018,10, October ,2018
+United States, Snickerdoodle ,3445.5, $4.00 , $1.50 ,01-04-2019,4, April ,2019
+France, Snickerdoodle ,1482, $4.00 , $1.50 ,01-12-2018,12, December ,2018
+France, Snickerdoodle ,1198, $4.00 , $1.50 ,01-10-2018,10, October ,2018
+Canada, Snickerdoodle ,1937, $4.00 , $1.50 ,01-02-2019,2, February ,2019
+Germany, Snickerdoodle ,792, $4.00 , $1.50 ,01-03-2019,3, March ,2019
+Germany, Snickerdoodle ,2811, $4.00 , $1.50 ,01-07-2019,7, July ,2019
+France, Snickerdoodle ,2441, $4.00 , $1.50 ,01-10-2019,10, October ,2019
+Canada, Snickerdoodle ,1560, $4.00 , $1.50 ,01-11-2018,11, November ,2018
+Mexico, Snickerdoodle ,2706, $4.00 , $1.50 ,01-11-2018,11, November ,2018
+Mexico, Snickerdoodle ,886, $4.00 , $1.50 ,01-06-2019,6, June ,2019
+Canada, Snickerdoodle ,2416, $4.00 , $1.50 ,01-09-2018,9, September ,2018
+Mexico, Snickerdoodle ,2156, $4.00 , $1.50 ,01-10-2019,10, October ,2019
+Canada, Snickerdoodle ,2689, $4.00 , $1.50 ,01-11-2019,11, November ,2019
+France, Snickerdoodle ,2521.5, $4.00 , $1.50 ,01-01-2019,1, January ,2019
+United States, Snickerdoodle ,2567, $4.00 , $1.50 ,01-06-2019,6, June ,2019
+Canada, Snickerdoodle ,923, $4.00 , $1.50 ,01-03-2019,3, March ,2019
+France, Snickerdoodle ,1790, $4.00 , $1.50 ,01-03-2019,3, March ,2019
+Germany, Snickerdoodle ,442, $4.00 , $1.50 ,01-09-2018,9, September ,2018
+Mexico, Snickerdoodle ,2579, $4.00 , $1.50 ,01-04-2019,4, April ,2019
+United States, Snickerdoodle ,1743, $4.00 , $1.50 ,01-05-2019,5, May ,2019
+United States, Snickerdoodle ,2996, $4.00 , $1.50 ,01-10-2018,10, October ,2018
+Germany, Snickerdoodle ,280, $4.00 , $1.50 ,01-12-2019,12, December ,2019
+Mexico, Snickerdoodle ,801, $4.00 , $1.50 ,01-07-2019,7, July ,2019
+France, Snickerdoodle ,1023, $4.00 , $1.50 ,01-09-2018,9, September ,2018
+Canada, Snickerdoodle ,1496, $4.00 , $1.50 ,01-10-2019,10, October ,2019
+United States, Snickerdoodle ,1010, $4.00 , $1.50 ,01-10-2019,10, October ,2019
+Germany, Snickerdoodle ,1513, $4.00 , $1.50 ,01-11-2019,11, November ,2019
+Canada, Snickerdoodle ,2300, $4.00 , $1.50 ,01-12-2019,12, December ,2019
+Mexico, Snickerdoodle ,2821, $4.00 , $1.50 ,01-12-2018,12, December ,2018
+France, Snickerdoodle ,1174, $4.00 , $1.50 ,01-08-2019,8, August ,2019
+Germany, Snickerdoodle ,2767, $4.00 , $1.50 ,01-08-2019,8, August ,2019
+Germany, Snickerdoodle ,1085, $4.00 , $1.50 ,01-10-2019,10, October ,2019
+Canada, Sugar ,2001, $3.00 , $1.25 ,01-02-2019,2, February ,2019
+Germany, Sugar ,2838, $3.00 , $1.25 ,01-04-2019,4, April ,2019
+France, Sugar ,2178, $3.00 , $1.25 ,01-06-2019,6, June ,2019
+Germany, Sugar ,888, $3.00 , $1.25 ,01-06-2019,6, June ,2019
+France, Sugar ,1527, $3.00 , $1.25 ,01-09-2018,9, September ,2018
+France, Sugar ,2151, $3.00 , $1.25 ,01-09-2019,9, September ,2019
+Canada, Sugar ,1817, $3.00 , $1.25 ,01-12-2019,12, December ,2019
+Canada, Sugar ,1326, $3.00 , $1.25 ,01-03-2019,3, March ,2019
+Germany, Sugar ,263, $3.00 , $1.25 ,01-03-2019,3, March ,2019
+Canada, Sugar ,943.5, $3.00 , $1.25 ,01-04-2019,4, April ,2019
+United States, Sugar ,727, $3.00 , $1.25 ,01-06-2019,6, June ,2019
+France, Sugar ,787, $3.00 , $1.25 ,01-06-2019,6, June ,2019
+Germany, Sugar ,986, $3.00 , $1.25 ,01-09-2019,9, September ,2019
+Mexico, Sugar ,494, $3.00 , $1.25 ,01-10-2018,10, October ,2018
+Mexico, Sugar ,1397, $3.00 , $1.25 ,01-10-2019,10, October ,2019
+France, Sugar ,1744, $3.00 , $1.25 ,01-11-2019,11, November ,2019
+Mexico, Sugar ,662, $3.00 , $1.25 ,01-06-2019,6, June ,2019
+Germany, Sugar ,214, $3.00 , $1.25 ,01-10-2018,10, October ,2018
+Germany, Sugar ,2877, $3.00 , $1.25 ,01-10-2019,10, October ,2019
+Canada, Sugar ,2729, $3.00 , $1.25 ,01-12-2019,12, December ,2019
+United States, Sugar ,266, $3.00 , $1.25 ,01-12-2018,12, December ,2018
+Mexico, Sugar ,1940, $3.00 , $1.25 ,01-12-2018,12, December ,2018
+United States, Sugar ,2844, $3.00 , $1.25 ,01-02-2019,2, February ,2019
+Mexico, Sugar ,1916, $3.00 , $1.25 ,01-04-2019,4, April ,2019
+Germany, Sugar ,1570, $3.00 , $1.25 ,01-06-2019,6, June ,2019
+Canada, Sugar ,1874, $3.00 , $1.25 ,01-08-2019,8, August ,2019
+Mexico, Sugar ,1642, $3.00 , $1.25 ,01-08-2019,8, August ,2019
+Germany, Sugar ,1945, $3.00 , $1.25 ,01-10-2018,10, October ,2018
+Germany, Sugar ,2479, $3.00 , $1.25 ,01-01-2019,1, January ,2019
+France, Sugar ,866, $3.00 , $1.25 ,01-05-2019,5, May ,2019
+United States, Sugar ,349, $3.00 , $1.25 ,01-09-2018,9, September ,2018
+France, Sugar ,2177, $3.00 , $1.25 ,01-10-2019,10, October ,2019
+Mexico, Sugar ,1514, $3.00 , $1.25 ,01-10-2018,10, October ,2018
+Mexico, Sugar ,2689, $3.00 , $1.25 ,01-10-2019,10, October ,2019
+Canada, Sugar ,1389, $3.00 , $1.25 ,01-10-2018,10, October ,2018
+United States, Sugar ,1265, $3.00 , $1.25 ,01-11-2018,11, November ,2018
+Germany, Sugar ,2297, $3.00 , $1.25 ,01-11-2018,11, November ,2018
+United States, Sugar ,2663, $3.00 , $1.25 ,01-12-2019,12, December ,2019
+United States, Sugar ,570, $3.00 , $1.25 ,01-12-2019,12, December ,2019
+France, Sugar ,2487, $3.00 , $1.25 ,01-12-2019,12, December ,2019
+Canada, Sugar ,2844, $3.00 , $1.25 ,01-06-2019,6, June ,2019
+Mexico, Sugar ,1498, $3.00 , $1.25 ,01-06-2019,6, June ,2019
+France, Sugar ,1221, $3.00 , $1.25 ,01-10-2018,10, October ,2018
+Mexico, Sugar ,1123, $3.00 , $1.25 ,01-11-2018,11, November ,2018
+Canada, Sugar ,2436, $3.00 , $1.25 ,01-12-2018,12, December ,2018
+United States, Sugar ,1153, $3.00 , $1.25 ,01-10-2019,10, October ,2019
+France, Sugar ,1738.5, $3.00 , $1.25 ,01-04-2019,4, April ,2019
+Germany, Sugar ,2215, $3.00 , $1.25 ,01-09-2018,9, September ,2018
+Canada, Sugar ,1582, $3.00 , $1.25 ,01-12-2019,12, December ,2019
+Canada, Sugar ,3244.5, $3.00 , $1.25 ,01-01-2019,1, January ,2019
+France, Sugar ,959, $3.00 , $1.25 ,01-02-2019,2, February ,2019
+Mexico, Sugar ,2747, $3.00 , $1.25 ,01-02-2019,2, February ,2019
+France, Sugar ,574.5, $3.00 , $1.25 ,01-04-2019,4, April ,2019
+Germany, Sugar ,2338, $3.00 , $1.25 ,01-06-2019,6, June ,2019
+France, Sugar ,381, $3.00 , $1.25 ,01-08-2019,8, August ,2019
+Germany, Sugar ,422, $3.00 , $1.25 ,01-08-2019,8, August ,2019
+Canada, Sugar ,2134, $3.00 , $1.25 ,01-09-2019,9, September ,2019
+United States, Sugar ,808, $3.00 , $1.25 ,01-12-2018,12, December ,2018
+United States, Sugar ,436.5, $3.00 , $1.25 ,01-07-2019,7, July ,2019
+United States, Sugar ,1956, $3.00 , $1.25 ,01-01-2019,1, January ,2019
+Germany, Sugar ,2659, $3.00 , $1.25 ,01-02-2019,2, February ,2019
+United States, Sugar ,1351.5, $3.00 , $1.25 ,01-04-2019,4, April ,2019
+Germany, Sugar ,880, $3.00 , $1.25 ,01-05-2019,5, May ,2019
+United States, Sugar ,1867, $3.00 , $1.25 ,01-09-2019,9, September ,2019
+France, Sugar ,2234, $3.00 , $1.25 ,01-09-2018,9, September ,2018
+France, Sugar ,1227, $3.00 , $1.25 ,01-10-2019,10, October ,2019
+Mexico, Sugar ,877, $3.00 , $1.25 ,01-11-2019,11, November ,2019
+Germany, Sugar ,360, $3.00 , $1.25 ,01-10-2019,10, October ,2019
+France, Sugar ,2682, $3.00 , $1.25 ,01-11-2018,11, November ,2018
+Mexico, Sugar ,521, $3.00 , $1.25 ,01-12-2019,12, December ,2019
+Mexico, Sugar ,341, $3.00 , $1.25 ,01-05-2019,5, May ,2019
+Mexico, Sugar ,641, $3.00 , $1.25 ,01-07-2019,7, July ,2019
+United States, Sugar ,2807, $3.00 , $1.25 ,01-08-2019,8, August ,2019
+Mexico, Sugar ,432, $3.00 , $1.25 ,01-09-2019,9, September ,2019
+United States, Sugar ,2294, $3.00 , $1.25 ,01-10-2018,10, October ,2018
+France, Sugar ,2167, $3.00 , $1.25 ,01-10-2018,10, October ,2018
+Canada, Sugar ,2529, $3.00 , $1.25 ,01-11-2019,11, November ,2019
+Germany, Sugar ,1870, $3.00 , $1.25 ,01-12-2018,12, December ,2018
+United States, Sugar ,1579, $3.00 , $1.25 ,01-03-2019,3, March ,2019
+Mexico, Sugar ,1005, $3.00 , $1.25 ,01-09-2018,9, September ,2018
+France, Sugar ,1734, $3.00 , $1.25 ,01-01-2019,1, January ,2019
+Mexico, Sugar ,554, $3.00 , $1.25 ,01-01-2019,1, January ,2019
+Canada, Sugar ,2935, $3.00 , $1.25 ,01-11-2018,11, November ,2018
+Canada, Sugar ,2109, $3.00 , $1.25 ,01-05-2019,5, May ,2019
+France, Sugar ,3874.5, $3.00 , $1.25 ,01-07-2019,7, July ,2019
+Canada, Sugar ,623, $3.00 , $1.25 ,01-09-2018,9, September ,2018
+United States, Sugar ,986, $3.00 , $1.25 ,01-10-2019,10, October ,2019
+United States, Sugar ,2387, $3.00 , $1.25 ,01-11-2019,11, November ,2019
+Mexico, Sugar ,1233, $3.00 , $1.25 ,01-12-2019,12, December ,2019
+France, Sugar ,1491, $3.00 , $1.25 ,01-03-2019,3, March ,2019
+Germany, Sugar ,1531, $3.00 , $1.25 ,01-12-2019,12, December ,2019
+United States, Sugar ,2567, $3.00 , $1.25 ,01-06-2019,6, June ,2019
+Canada, Sugar ,1583, $3.00 , $1.25 ,01-06-2019,6, June ,2019
+Canada, Sugar ,1565, $3.00 , $1.25 ,01-10-2019,10, October ,2019
+Germany, Sugar ,280, $3.00 , $1.25 ,01-12-2019,12, December ,2019
+Mexico, Sugar ,2903, $3.00 , $1.25 ,01-03-2019,3, March ,2019
+United States, Sugar ,2541, $3.00 , $1.25 ,01-08-2019,8, August ,2019
+Canada, Sugar ,269, $3.00 , $1.25 ,01-10-2018,10, October ,2018
+Canada, Sugar ,1496, $3.00 , $1.25 ,01-10-2019,10, October ,2019
+United States, Sugar ,1010, $3.00 , $1.25 ,01-10-2019,10, October ,2019
+France, Sugar ,1281, $3.00 , $1.25 ,01-12-2018,12, December ,2018
+Canada, Sugar ,865.5, $3.00 , $1.25 ,01-07-2019,7, July ,2019
+Germany, Sugar ,492, $3.00 , $1.25 ,01-07-2019,7, July ,2019
+United States, Sugar ,267, $3.00 , $1.25 ,01-10-2018,10, October ,2018
+Germany, Sugar ,1175, $3.00 , $1.25 ,01-10-2019,10, October ,2019
+Canada, Sugar ,2954, $3.00 , $1.25 ,01-11-2018,11, November ,2018
+Germany, Sugar ,552, $3.00 , $1.25 ,01-11-2019,11, November ,2019
+France, Sugar ,293, $3.00 , $1.25 ,01-12-2019,12, December ,2019
+United States, Sugar ,1806, $3.00 , $1.25 ,01-05-2019,5, May ,2019
+Mexico, White Chocolate Macadamia Nut ,1493, $6.00 , $2.75 ,01-01-2019,1, January ,2019
+France, White Chocolate Macadamia Nut ,1804, $6.00 , $2.75 ,01-02-2019,2, February ,2019
+Germany, White Chocolate Macadamia Nut ,2161, $6.00 , $2.75 ,01-03-2019,3, March ,2019
+Germany, White Chocolate Macadamia Nut ,1006, $6.00 , $2.75 ,01-06-2019,6, June ,2019
+Germany, White Chocolate Macadamia Nut ,1545, $6.00 , $2.75 ,01-06-2019,6, June ,2019
+United States, White Chocolate Macadamia Nut ,2821, $6.00 , $2.75 ,01-08-2019,8, August ,2019
+Canada, White Chocolate Macadamia Nut ,345, $6.00 , $2.75 ,01-10-2018,10, October ,2018
+France, White Chocolate Macadamia Nut ,639, $6.00 , $2.75 ,01-11-2019,11, November ,2019
+France, White Chocolate Macadamia Nut ,3864, $6.00 , $2.75 ,01-04-2019,4, April ,2019
+Mexico, White Chocolate Macadamia Nut ,362, $6.00 , $2.75 ,01-05-2019,5, May ,2019
+Canada, White Chocolate Macadamia Nut ,923, $6.00 , $2.75 ,01-08-2019,8, August ,2019
+United States, White Chocolate Macadamia Nut ,663, $6.00 , $2.75 ,01-10-2018,10, October ,2018
+Canada, White Chocolate Macadamia Nut ,2092, $6.00 , $2.75 ,01-11-2018,11, November ,2018
+United States, White Chocolate Macadamia Nut ,1566, $6.00 , $2.75 ,01-10-2019,10, October ,2019
+Germany, White Chocolate Macadamia Nut ,2966, $6.00 , $2.75 ,01-10-2018,10, October ,2018
+Germany, White Chocolate Macadamia Nut ,2877, $6.00 , $2.75 ,01-10-2019,10, October ,2019
+Germany, White Chocolate Macadamia Nut ,809, $6.00 , $2.75 ,01-10-2018,10, October ,2018
+Mexico, White Chocolate Macadamia Nut ,2145, $6.00 , $2.75 ,01-10-2018,10, October ,2018
+France, White Chocolate Macadamia Nut ,1055, $6.00 , $2.75 ,01-12-2019,12, December ,2019
+Mexico, White Chocolate Macadamia Nut ,544, $6.00 , $2.75 ,01-12-2018,12, December ,2018
+Mexico, White Chocolate Macadamia Nut ,1084, $6.00 , $2.75 ,01-12-2019,12, December ,2019
+Canada, White Chocolate Macadamia Nut ,2009, $6.00 , $2.75 ,01-10-2019,10, October ,2019
+Canada, White Chocolate Macadamia Nut ,3850.5, $6.00 , $2.75 ,01-04-2019,4, April ,2019
+United States, White Chocolate Macadamia Nut ,736, $6.00 , $2.75 ,01-09-2018,9, September ,2018
+United States, White Chocolate Macadamia Nut ,1465, $6.00 , $2.75 ,01-03-2019,3, March ,2019
+Canada, White Chocolate Macadamia Nut ,2646, $6.00 , $2.75 ,01-09-2018,9, September ,2018
+France, White Chocolate Macadamia Nut ,2177, $6.00 , $2.75 ,01-10-2019,10, October ,2019
+Canada, White Chocolate Macadamia Nut ,2431, $6.00 , $2.75 ,01-12-2019,12, December ,2019
+United States, White Chocolate Macadamia Nut ,555, $6.00 , $2.75 ,01-01-2019,1, January ,2019
+Mexico, White Chocolate Macadamia Nut ,2861, $6.00 , $2.75 ,01-01-2019,1, January ,2019
+Germany, White Chocolate Macadamia Nut ,807, $6.00 , $2.75 ,01-02-2019,2, February ,2019
+United States, White Chocolate Macadamia Nut ,602, $6.00 , $2.75 ,01-06-2019,6, June ,2019
+United States, White Chocolate Macadamia Nut ,2832, $6.00 , $2.75 ,01-08-2019,8, August ,2019
+France, White Chocolate Macadamia Nut ,1579, $6.00 , $2.75 ,01-08-2019,8, August ,2019
+United States, White Chocolate Macadamia Nut ,861, $6.00 , $2.75 ,01-10-2019,10, October ,2019
+France, White Chocolate Macadamia Nut ,704, $6.00 , $2.75 ,01-10-2018,10, October ,2018
+France, White Chocolate Macadamia Nut ,1033, $6.00 , $2.75 ,01-12-2018,12, December ,2018
+Germany, White Chocolate Macadamia Nut ,1250, $6.00 , $2.75 ,01-12-2019,12, December ,2019
+Canada, White Chocolate Macadamia Nut ,952, $6.00 , $2.75 ,01-02-2019,2, February ,2019
+United States, White Chocolate Macadamia Nut ,2755, $6.00 , $2.75 ,01-02-2019,2, February ,2019
+Germany, White Chocolate Macadamia Nut ,1530, $6.00 , $2.75 ,01-05-2019,5, May ,2019
+France, White Chocolate Macadamia Nut ,1496, $6.00 , $2.75 ,01-06-2019,6, June ,2019
+Mexico, White Chocolate Macadamia Nut ,1498, $6.00 , $2.75 ,01-06-2019,6, June ,2019
+France, White Chocolate Macadamia Nut ,1221, $6.00 , $2.75 ,01-10-2018,10, October ,2018
+France, White Chocolate Macadamia Nut ,2076, $6.00 , $2.75 ,01-10-2018,10, October ,2018
+Germany, White Chocolate Macadamia Nut ,1001, $6.00 , $2.75 ,01-08-2019,8, August ,2019
+Mexico, White Chocolate Macadamia Nut ,1333, $6.00 , $2.75 ,01-11-2019,11, November ,2019
+Canada, White Chocolate Macadamia Nut ,1262, $6.00 , $2.75 ,01-05-2019,5, May ,2019
+Canada, White Chocolate Macadamia Nut ,1135, $6.00 , $2.75 ,01-06-2019,6, June ,2019
+United States, White Chocolate Macadamia Nut ,547, $6.00 , $2.75 ,01-11-2019,11, November ,2019
+Canada, White Chocolate Macadamia Nut ,1582, $6.00 , $2.75 ,01-12-2019,12, December ,2019
+France, White Chocolate Macadamia Nut ,1659, $6.00 , $2.75 ,01-07-2019,7, July ,2019
+Mexico, White Chocolate Macadamia Nut ,609, $6.00 , $2.75 ,01-08-2019,8, August ,2019
+Germany, White Chocolate Macadamia Nut ,2087, $6.00 , $2.75 ,01-09-2019,9, September ,2019
+France, White Chocolate Macadamia Nut ,1976, $6.00 , $2.75 ,01-10-2019,10, October ,2019
+United States, White Chocolate Macadamia Nut ,1421, $6.00 , $2.75 ,01-12-2018,12, December ,2018
+United States, White Chocolate Macadamia Nut ,1372, $6.00 , $2.75 ,01-12-2019,12, December ,2019
+Germany, White Chocolate Macadamia Nut ,588, $6.00 , $2.75 ,01-12-2018,12, December ,2018
+Canada, White Chocolate Macadamia Nut ,598, $6.00 , $2.75 ,01-03-2019,3, March ,2019
+United States, White Chocolate Macadamia Nut ,2907, $6.00 , $2.75 ,01-06-2019,6, June ,2019
+Germany, White Chocolate Macadamia Nut ,2338, $6.00 , $2.75 ,01-06-2019,6, June ,2019
+France, White Chocolate Macadamia Nut ,386, $6.00 , $2.75 ,01-11-2018,11, November ,2018
+Mexico, White Chocolate Macadamia Nut ,635, $6.00 , $2.75 ,01-12-2019,12, December ,2019
+Mexico, White Chocolate Macadamia Nut ,245, $6.00 , $2.75 ,01-05-2019,5, May ,2019
+Canada, White Chocolate Macadamia Nut ,3793.5, $6.00 , $2.75 ,01-07-2019,7, July ,2019
+Germany, White Chocolate Macadamia Nut ,1307, $6.00 , $2.75 ,01-07-2019,7, July ,2019
+Canada, White Chocolate Macadamia Nut ,567, $6.00 , $2.75 ,01-09-2019,9, September ,2019
+Mexico, White Chocolate Macadamia Nut ,2110, $6.00 , $2.75 ,01-09-2019,9, September ,2019
+Canada, White Chocolate Macadamia Nut ,1269, $6.00 , $2.75 ,01-10-2019,10, October ,2019
+France, White Chocolate Macadamia Nut ,1967, $6.00 , $2.75 ,01-03-2019,3, March ,2019
+Mexico, White Chocolate Macadamia Nut ,2628, $6.00 , $2.75 ,01-04-2019,4, April ,2019
+Germany, White Chocolate Macadamia Nut ,681, $6.00 , $2.75 ,01-01-2019,1, January ,2019
+Germany, White Chocolate Macadamia Nut ,510, $6.00 , $2.75 ,01-04-2019,4, April ,2019
+United States, White Chocolate Macadamia Nut ,790, $6.00 , $2.75 ,01-05-2019,5, May ,2019
+France, White Chocolate Macadamia Nut ,639, $6.00 , $2.75 ,01-07-2019,7, July ,2019
+United States, White Chocolate Macadamia Nut ,1596, $6.00 , $2.75 ,01-09-2019,9, September ,2019
+United States, White Chocolate Macadamia Nut ,2294, $6.00 , $2.75 ,01-10-2018,10, October ,2018
+Germany, White Chocolate Macadamia Nut ,241, $6.00 , $2.75 ,01-10-2019,10, October ,2019
+Germany, White Chocolate Macadamia Nut ,2665, $6.00 , $2.75 ,01-11-2019,11, November ,2019
+Canada, White Chocolate Macadamia Nut ,1916, $6.00 , $2.75 ,01-12-2018,12, December ,2018
+France, White Chocolate Macadamia Nut ,853, $6.00 , $2.75 ,01-12-2019,12, December ,2019
+Canada, White Chocolate Macadamia Nut ,384, $6.00 , $2.75 ,01-01-2019,1, January ,2019
+Germany, White Chocolate Macadamia Nut ,472, $6.00 , $2.75 ,01-10-2019,10, October ,2019
+France, White Chocolate Macadamia Nut ,2805, $6.00 , $2.75 ,01-09-2018,9, September ,2018
+Mexico, White Chocolate Macadamia Nut ,655, $6.00 , $2.75 ,01-09-2018,9, September ,2018
+Mexico, White Chocolate Macadamia Nut ,344, $6.00 , $2.75 ,01-10-2018,10, October ,2018
+Canada, White Chocolate Macadamia Nut ,1808, $6.00 , $2.75 ,01-11-2019,11, November ,2019
+Mexico, White Chocolate Macadamia Nut ,1395, $6.00 , $2.75 ,01-07-2019,7, July ,2019
+United States, White Chocolate Macadamia Nut ,986, $6.00 , $2.75 ,01-10-2019,10, October ,2019
+Mexico, White Chocolate Macadamia Nut ,905, $6.00 , $2.75 ,01-10-2019,10, October ,2019
+France, White Chocolate Macadamia Nut ,3997.5, $6.00 , $2.75 ,01-01-2019,1, January ,2019
+Canada, White Chocolate Macadamia Nut ,2632, $6.00 , $2.75 ,01-06-2019,6, June ,2019
+France, White Chocolate Macadamia Nut ,1190, $6.00 , $2.75 ,01-06-2019,6, June ,2019
+Mexico, White Chocolate Macadamia Nut ,604, $6.00 , $2.75 ,01-06-2019,6, June ,2019
+Germany, White Chocolate Macadamia Nut ,660, $6.00 , $2.75 ,01-09-2018,9, September ,2018
+Mexico, White Chocolate Macadamia Nut ,410, $6.00 , $2.75 ,01-10-2019,10, October ,2019
+Mexico, White Chocolate Macadamia Nut ,2605, $6.00 , $2.75 ,01-11-2018,11, November ,2018
+Germany, White Chocolate Macadamia Nut ,1013, $6.00 , $2.75 ,01-12-2019,12, December ,2019
+Mexico, White Chocolate Macadamia Nut ,1575, $6.00 , $2.75 ,01-02-2019,2, February ,2019
+United States, White Chocolate Macadamia Nut ,606, $6.00 , $2.75 ,01-04-2019,4, April ,2019
+United States, White Chocolate Macadamia Nut ,2460, $6.00 , $2.75 ,01-07-2019,7, July ,2019
+Canada, White Chocolate Macadamia Nut ,269, $6.00 , $2.75 ,01-10-2018,10, October ,2018
+Germany, White Chocolate Macadamia Nut ,2536, $6.00 , $2.75 ,01-11-2018,11, November ,2018
+Mexico, White Chocolate Macadamia Nut ,500, $6.00 , $2.75 ,01-03-2019,3, March ,2019
+France, White Chocolate Macadamia Nut ,2826, $6.00 , $2.75 ,01-05-2019,5, May ,2019
+France, White Chocolate Macadamia Nut ,663, $6.00 , $2.75 ,01-09-2019,9, September ,2019
+United States, White Chocolate Macadamia Nut ,2574, $6.00 , $2.75 ,01-11-2018,11, November ,2018
+United States, White Chocolate Macadamia Nut ,2438, $6.00 , $2.75 ,01-12-2018,12, December ,2018
+United States, White Chocolate Macadamia Nut ,914, $6.00 , $2.75 ,01-12-2019,12, December ,2019
